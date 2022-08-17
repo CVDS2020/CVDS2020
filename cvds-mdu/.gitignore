@@ -1,0 +1,17 @@
+.vscode
+build
+/logs
+/*.log
+node_modules
+*.db
+*.db.bak
+/*.zip
+/*.tar.gz
+/*.dev.ini
+/*.dev.db
+.idea
+.DS_Store
+Unnamed
+dev.ini
+debug
+debug.ini

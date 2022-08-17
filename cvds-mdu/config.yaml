@@ -1,0 +1,12 @@
+rtsp:
+  port: 6554
+
+log:
+  level: debug
+  development: true
+  encoding: console
+  console-encoder:
+    level-encoder: capital
+
+figure:
+  phrase: CVDSMDU

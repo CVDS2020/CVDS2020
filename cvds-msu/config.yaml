@@ -1,0 +1,12 @@
+storage:
+  file-duration: 30
+
+log:
+  level: debug
+  development: true
+  encoding: console
+  console-encoder:
+    level-encoder: capital
+
+figure:
+  phrase: CVDSMSU
